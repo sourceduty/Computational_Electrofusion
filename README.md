@@ -37,19 +37,18 @@ In addition to biological materials, the table lists synthetic materials like co
 
 .......................................................................................................................................................
 
-| Material Type           | Examples and Applications                  |
-|-------------------------|--------------------------------------------|
-| Biological Cells        | Animal Cells (Hybridomas for antibodies),  |
-|                         | Plant Cells (Crop hybridization), Bacterial|
-|                         | Cells (Genetic material transfer)          |
-| Liposomes and Vesicles  | Synthetic Lipid Vesicles (Drug delivery),  |
-|                         | Cell-Derived Vesicles (Exosomes for therapy)|
-| Polymers and Synthetic  | Conductive Polymers (Nanofabrication),     |
-| Materials               | Carbon Nanotubes (Sensors, Transistors)    |
-| Nanoparticles           | Metallic Nanoparticles (Catalysis, Energy),|
-|                         | Polymeric Nanoparticles (Drug delivery)    |
-| Hydrogels               | Polymeric Hydrogels (Tissue engineering,   |
-|                         | Medical implants, Drug delivery systems)   |
+| Material            | Description                                                                 | Application                                        | Fusion Efficiency (%) | Notes                                     |
+|---------------------|-----------------------------------------------------------------------------|----------------------------------------------------|-----------------------|-------------------------------------------|
+| Cell Membranes       | Lipid bilayers surrounding biological cells                                 | Biotechnology, Hybrid Cell Creation                | 85-95                 | Sensitive to electric field parameters    |
+| Synthetic Polymers   | Engineered materials with specific electrical and mechanical properties     | Material Science, Tissue Engineering               | 70-80                 | Requires precise pulse timing            |
+| Hybrid Nanoparticles | Composite particles formed from multiple materials (e.g., metal and organic)| Drug Delivery, Medical Imaging                     | 60-75                 | Dependent on particle size and shape      |
+| Liposomes            | Spherical vesicles made of lipid bilayers                                   | Drug Delivery, Vaccine Delivery                    | 75-85                 | Fusion influenced by membrane composition |
+| Conductive Hydrogels | Polymer networks capable of conducting electricity                          | Bioelectronics, Tissue Engineering                 | 80-90                 | Highly adaptable to electrical fields     |
+| Stem Cells           | Undifferentiated biological cells capable of developing into various cell types | Regenerative Medicine, Gene Therapy             | 65-75                 | Fusion impacted by cell type and size     |
+| Carbon Nanotubes     | Cylindrical nanostructures made of carbon atoms                             | Nanotechnology, Electronics                        | 50-65                 | Requires optimization of voltage levels   |
+| Gold Nanoparticles   | Small gold particles used in biological applications                        | Biosensing, Drug Delivery                         | 55-70                 | Sensitive to pulse duration and intensity |
+| Microcapsules        | Small capsules used for controlled release of substances                    | Drug Delivery, Industrial Chemistry                | 65-80                 | Efficiency depends on encapsulation method|
+| DNA/Protein Complexes| Molecular complexes essential for biological functions                      | Gene Therapy, Synthetic Biology                    | 60-85                 | Fusion efficiency varies by molecule type |
 
 #
 ### Contributions of Computational Electrofusion
