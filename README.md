@@ -37,7 +37,6 @@ In addition to biological materials, the table lists synthetic materials like co
 
 .......................................................................................................................................................
 
-+-------------------------+--------------------------------------------+
 | Material Type           | Examples and Applications                  |
 +-------------------------+--------------------------------------------+
 | Biological Cells        | Animal Cells (Hybridomas for antibodies),  |
@@ -55,7 +54,6 @@ In addition to biological materials, the table lists synthetic materials like co
 +-------------------------+--------------------------------------------+
 | Hydrogels               | Polymeric Hydrogels (Tissue engineering,   |
 |                         | Medical implants, Drug delivery systems)   |
-+-------------------------+--------------------------------------------+
 
 #
 ### Contributions of Computational Electrofusion
