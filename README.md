@@ -128,6 +128,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
