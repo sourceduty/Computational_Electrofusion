@@ -57,7 +57,7 @@ Print computational electrofusion concepts.
 ```
 
 #
-### Computational Electrofusion Materials
+### Biological Computational Electrofusion Materials
 
 The table provides an overview of materials that can be electrofused, along with examples and their applications. Biological cells, such as animal, plant, and bacterial cells, are commonly electrofused for purposes ranging from producing hybridomas for antibody production to genetic material transfer in bacteria. This process is pivotal in biotechnology and medical research. Liposomes and vesicles, both synthetic and cell-derived, are also fused using electrical pulses to create structures for drug delivery and therapeutic applications, highlighting electrofusion's importance in biomedicine.
 
