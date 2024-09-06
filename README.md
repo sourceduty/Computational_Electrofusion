@@ -42,16 +42,12 @@ In addition to biological materials, the table lists synthetic materials like co
 | Biological Cells        | Animal Cells (Hybridomas for antibodies),  |
 |                         | Plant Cells (Crop hybridization), Bacterial|
 |                         | Cells (Genetic material transfer)          |
-|-------------------------|--------------------------------------------|
 | Liposomes and Vesicles  | Synthetic Lipid Vesicles (Drug delivery),  |
 |                         | Cell-Derived Vesicles (Exosomes for therapy)|
-|-------------------------|--------------------------------------------|
 | Polymers and Synthetic  | Conductive Polymers (Nanofabrication),     |
 | Materials               | Carbon Nanotubes (Sensors, Transistors)    |
-|-------------------------|--------------------------------------------|
 | Nanoparticles           | Metallic Nanoparticles (Catalysis, Energy),|
 |                         | Polymeric Nanoparticles (Drug delivery)    |
-|-------------------------|--------------------------------------------|
 | Hydrogels               | Polymeric Hydrogels (Tissue engineering,   |
 |                         | Medical implants, Drug delivery systems)   |
 
