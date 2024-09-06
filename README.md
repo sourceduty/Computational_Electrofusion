@@ -1,4 +1,4 @@
-![Computational Electrofusion](https://github.com/user-attachments/assets/df505fbf-7649-456e-aa8b-22ba5be4cebe)
+![Computational Electrofusion](https://github.com/user-attachments/assets/3ab8114a-620d-4b2f-91e2-7872920a69cb)
 
 > A new scientific framework that integrates computational modeling with electrofusion techniques.
 
