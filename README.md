@@ -24,7 +24,7 @@ During the experimental phase, real-time data from fusion attempts are continuou
 #
 ### Natural Electrofusion
 
-![Fulgerite](https://github.com/user-attachments/assets/7e980387-90c4-4808-a59e-07bf0bc4bdb4)
+![Fulgurite](https://github.com/user-attachments/assets/7e980387-90c4-4808-a59e-07bf0bc4bdb4)
 
 Lightning could be considered a form of "natural electrofusion," particularly when examining phenomena like fulgurite formation. In this process, the electrical energy from a lightning strike generates intense heat, melting sand or mineral-rich soil and fusing it into glass-like structures. While this isn't electrofusion in the strict scientific sense—where controlled electric fields are used to merge cells or materials without extreme heat—the concept of using electrical energy to cause fusion of substances holds. In lightning-induced fulgurite, the sudden discharge of electrical energy from the atmosphere creates conditions where the surrounding materials undergo rapid transformation, similar to the fusion of membranes or materials seen in laboratory-based electrofusion processes.
 
